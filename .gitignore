@@ -12,11 +12,11 @@ Thumbs.db
 **/npm-debug.log*
 
 # --- AI Subfolder (Python/Data Science) ---
-ai/__pycache__/
-ai/.ipynb_checkpoints/
-ai/venv/
-ai/env/
-ai/*.pyc
+AI/__pycache__/
+AI/.ipynb_checkpoints/
+AI/venv/
+AI/env/
+AI/*.pyc
 
 # --- Frontend (If using Flutter) ---
 # If your frontend is Flutter, add these specific lines:
